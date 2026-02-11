@@ -52,9 +52,11 @@ section{min-height: 100vh;}
 .features-cards { grid-template-columns: 1fr;}
 .features-wrapper h2 { font-size: 30px;}}
 footer { background: #6a5acd; color: #fff; padding: 20px 10px 5px; font-family: 'Inter', sans-serif;}
-.footer-wrapper { max-width: 1200px; margin: auto; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 40px;}
+.footer-wrapper {max-width: 1200px; margin: auto; display: flex;  flex-wrap: wrap; gap: 40px;}
+.footer-logo{width: 850px;}
 .footer-logo h2 { font-size: 28px; margin-bottom: 10px;}
 .footer-logo p { font-size: 14px; line-height: 1.6;}
+.footer-links{width: 150px;}
 .footer-links h3{ font-size: 18px; margin-bottom: 15px;}
 .footer-links ul { list-style: none; padding: 0;}
 .footer-links ul li { margin-bottom: 10px;}
